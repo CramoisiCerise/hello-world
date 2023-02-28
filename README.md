@@ -1,3 +1,3 @@
 # hello-world
 repository thingy
-comp sci
+comp sci 
